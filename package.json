@@ -1,0 +1,15 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "other author",
+  "license": "ISC",
+  "dependencies": {
+    "@dasha.ai/platform-sdk": "^0.6.0",
+    "@dasha.ai/sdk": "^0.5.2"
+  }
+}

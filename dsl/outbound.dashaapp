@@ -1,0 +1,20 @@
+{
+    "formatVersion": "2",
+    "name": "appname",
+    "description": "test application",
+    "nlu": {
+      "skills": [
+        "common_phrases",
+        "sentiment"
+      ],
+      "language": "en-US"
+    },
+    "nlg": {
+      "type": "phrases",
+      "file": "phrasemap.json",
+      "signatureFile": "phrasemap.json"
+    },
+    "dialogue": {
+      "file": "main.dsl"
+    }
+}
